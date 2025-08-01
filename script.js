@@ -1,30 +1,4 @@
-const questions = [
-  {
-    question: "What’s your ideal climate?",
-    answers: [
-      { text: "Warm and sunny", result: "Palm Tree" },
-      { text: "Cool and foggy", result: "Pine Tree" },
-      { text: "Wet and lush", result: "Willow Tree" },
-    ]
-  },
-  {
-    question: "How would your friends describe you?",
-    answers: [
-      { text: "Strong and grounded", result: "Oak Tree" },
-      { text: "Flexible and calm", result: "Willow Tree" },
-      { text: "Tall and chill", result: "Palm Tree" }
-    ]
-  },
-  {
-    question: "What's your pace of life?",
-    answers: [
-      { text: "Slow and steady", result: "Pine Tree" },
-      { text: "Fast and fun", result: "Palm Tree" },
-      { text: "Flowing and adaptable", result: "Willow Tree" }
-    ]
-  }
-];
-
+let questions = [];
 let currentQuestion = 0;
 let resultCounts = {};
 
