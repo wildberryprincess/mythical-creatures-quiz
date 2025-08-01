@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personality Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container" id="start-screen">
+    <h1>What Kind of Tree Are You?</h1>
+    <button onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <div class="container hidden" id="question-screen">
+    <p id="question-text">Question text goes here</p>
+    <div id="answer-buttons"></div>
+  </div>
+
+  <div class="container hidden" id="result-screen">
+    <h2>Your Result:</h2>
+    <p id="result-text"></p>
+    <button onclick="restartQuiz()">Restart</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
