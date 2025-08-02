@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Someone breaks your heart, wyd?",
+    "answers": [
+      { "text": "Releasing mail order crickets into their home", "result": "Fairy" },
+      { "text": "Someone breaking MY heart? Simply would never happen.", "result": "Witch" },
+      { "text": "Silent Treatment, throw away all memorabilia", "result": "Mermaid" },
+      { "text": "Burn their house to the ground.", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "Friend needs comfort...",
+    "answers": [
+      { "text": "Planning a cute fun date", "result": "Fairy" },
+      { "text": "Giving advice immediately", "result": "Witch" },
+      { "text": "Listening and validating", "result": "Mermaid" },
+      { "text": "Idk, uncomfortable. Pat on the back.", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "Snacks u bringin",
+    "answers": [
+      { "text": "Berries", "result": "Fairy" },
+      { "text": "Muffins or bread", "result": "Witch" },
+      { "text": "Potato Chips", "result": "Mermaid" },
+      { "text": "Crackers and Cheese", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "Sun is going down while hiking, wyd?",
+    "answers": [
+      { "text": "Stargazing time", "result": "Fairy" },
+      { "text": "Set up camp", "result": "Witch" },
+      { "text": "Stress and hike down", "result": "Mermaid" },
+      { "text": "Keep hiking", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "You get a compliment on your outfit, how do you respond?",
+    "answers": [
+      { "text": "I thrifted it", "result": "Fairy" },
+      { "text": "Tell them a long convulted story about how it came into your possession", "result": "Witch" },
+      { "text": "I love yours too", "result": "Mermaid" },
+      { "text": "I got it tailored.", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "You want to play dodgeball with some friends, how do you get enough people?",
+    "answers": [
+      { "text": "Only your closest three friends come and you have a blast anyway.", "result": "Fairy" },
+      { "text": "You send out a text day of and everyone comes", "result": "Witch" },
+      { "text": "You hope for someone else to invite you to play", "result": "Mermaid" },
+      { "text": "Ideally, have your personal assistant organize it", "result": "Vampire" }
+    ]
+  },
+  {
+    "question": "You're late for your flight at the airport and your travel partner is moving a little slow. You:",
+    "answers": [
+      { "text": "Suggest we maybe move just a little bit faster.", "result": "Fairy" },
+      { "text": "Tell them directly that you have to pick up the pace", "result": "Witch" },
+      { "text": "Deep breaths and meditation music in your headphones", "result": "Mermaid" },
+      { "text": "Bottle it all up and probably explode later", "result": "Vampire" }
+    ]
+  }
+]
