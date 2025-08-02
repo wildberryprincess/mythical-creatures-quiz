@@ -51,3 +51,11 @@ function restartQuiz() {
   document.getElementById('result-screen').classList.add('hidden');
   document.getElementById('start-screen').classList.remove('hidden');
 }
+
+// Load questions before quiz starts
+fetch('questions.json')
+  .then(response => response.json())
+  .then(data => {
+    questions = data;
+  })
+  .catch(error => console.error('Failed to load questions:', error));
